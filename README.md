@@ -108,7 +108,7 @@ This project builds an end-to-end deep learning image classification model using
 
 ## 🖼️ Sample Predictions
 
-![Model Predictions](Actual_vs_Predicted Fruit.png)
+![Model Predictions](Actual_vs_Predicted_Fruit.png)
 
 ## 💡 Conclusion
 
